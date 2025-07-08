@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BehrangBina
-- 👀 I’m interested in Process Improvement and Quality 
-- 🌱 I’m currently learning Angular / Azure / Intelligent Automation
-- 💞️ I’m looking to collaborate on Challangng and innovative projects
+-  Hi, I’m @BehrangBina
+-  I’m interested in Process Improvement and Quality 
+-  I’m currently learning Angular / Azure / Intelligent Automation
+-  I’m looking to collaborate on Challangng and innovative projects
 
 
 <!---
